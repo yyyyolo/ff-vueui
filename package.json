@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/yyyyolo/ff-vueui#readme",
   "dependencies": {
+    "D": "^1.0.0",
+    "chai": "^4.2.0",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.4"
   },
@@ -31,6 +33,6 @@
     "vue-template-compiler": "^2.6.10"
   },
   "alias": {
-    "vue" : "./node_modules/vue/dist/vue.common.js"
+    "vue": "./node_modules/vue/dist/vue.common.js"
   }
 }
